@@ -1,0 +1,11 @@
+{
+  "name": "vue-jsx-demo",
+  "version": "1.0.0",
+  "description": "Vue.js web app with JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Anaya <ignacio.anaya89@gmail>",
+  "license": "MIT"
+}
