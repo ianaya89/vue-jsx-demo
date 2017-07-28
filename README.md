@@ -1,8 +1,8 @@
 # vue-jsx-demo
 
-> ✍️ Vue.js web app with JSX
+> ✍️ Vue.js web app with JSX. Check the [live demo](http://ianaya89.com/vue-jsx-demo).
 
-## Try it
+## Try it!
 
 ```bash
 # install deps
