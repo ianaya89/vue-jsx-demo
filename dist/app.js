@@ -25,7 +25,9 @@ new Vue({
     }
   },
 
-  render: function render(h) {
+  render: function render() {
+    var h = arguments[0];
+
     return h(
       'div',
       { style: 'text-align: center' },

@@ -24,7 +24,7 @@ new Vue({
     }
   },
 
-  render (h) {
+  render () {
     return (
       <div style='text-align: center'>
         <h1 style={{ color: this.selectedColor}}>
